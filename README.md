@@ -1,2 +1,2 @@
-# Treinando-C-
+# Treinando-CPP
 APENAS PROJETOS TREINOS
